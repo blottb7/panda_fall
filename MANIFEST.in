@@ -1,0 +1,3 @@
+graft panda_fall
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  panda_fall/jupy *
